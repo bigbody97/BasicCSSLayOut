@@ -1,0 +1,10 @@
+﻿h1 {
+    color: grey;
+    background: firebrick;
+    border-radius: 30px;
+    border-color: black;
+    text-align: center;
+    padding: 20px;
+    font-family: 'Akronim', cursive;
+    font-size:60px
+}
